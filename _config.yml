@@ -1,0 +1,16 @@
+# Site settings
+title: Gareth Codes
+email: me@gareth.codes
+description: > # this means to ignore newlines until "baseurl:"
+  Currently leading a tech team out of Amsterdam for Greenpeace International from my office-on-an-island near Vancouver, Canada.
+  Tolerance, technology and human endeavours give me passion and pause.
+  Actively working towards a world more techno-utopia than dystopian nightmare.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gareth.codes" # the base hostname & protocol for your site
+twitter_username: gyaresu
+github_username: gyaresu 
+timezone: Vancouver
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
