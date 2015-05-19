@@ -4,7 +4,7 @@ title:  "Playful cleverness"
 date:   2015-05-18 10:15:13
 categories: hacking, technology
 published: true
-tags: react, es6, ampersandjs, webpack, surge.sh, nodeschool, hacker, babel, exercism, fp, yeticss, humanjavascript, hackrfm technology, programming
+tags: react, es6, ampersandjs, webpack, surge.sh, nodeschool, hacker, babel, exercism, fp, yeticss, humanjavascript, hackrf, technology, programming
 ---
 A [hacker][hacker] is one who enjoys the intellectual challenge of creatively overcoming and circumventing the limitations of programming systems. And in doing so, tries to extend their capabilities.
 
