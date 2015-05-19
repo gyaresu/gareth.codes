@@ -2,7 +2,7 @@
 layout: post
 title:  "Playful cleverness"
 date:   2015-05-18 10:15:13
-categories: hacking technology
+categories: hacking, technology
 published: true
 tags: react, es6, ampersandjs, webpack, surge.sh, nodeschool, hacker, babel, exercism, fp, yeticss, humanjavascript, hackrfm technology, programming
 ---

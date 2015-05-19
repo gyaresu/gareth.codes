@@ -2,9 +2,11 @@
 layout: post
 title:  "temp"
 date:   2015-05-18 18:42:00
-categories: hacking technology
+categories: hacking, technology
 published: false
 tags: technology, programming
 ---
 
-# Temporary post
+# Temporary post heading
+
+<!--more-->
