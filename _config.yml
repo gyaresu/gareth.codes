@@ -12,6 +12,6 @@ github_username: gyaresu
 timezone: Vancouver
 permalink: /:title/
 excerpt_separator: <!--more-->
-
+exclude: ['README.md']
 # Build settings
 markdown: kramdown
