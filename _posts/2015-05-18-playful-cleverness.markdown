@@ -4,11 +4,13 @@ title:  "Playful cleverness"
 date:   2015-05-18 10:15:13
 categories: hacking technology
 published: true
-tags: technology, programming
+tags: react, es6, ampersandjs, webpack, surge.sh, nodeschool, hacker, babel, exercism, fp, yeticss, humanjavascript, hackrfm technology, programming
 ---
 A [hacker][hacker] is one who enjoys the intellectual challenge of creatively overcoming and circumventing the limitations of programming systems. And in doing so, tries to extend their capabilities.
 
 The act of programming in a spirit of playfulness and exploration is termed hacking.
+
+<!--more-->
 
 However the defining characteristic of a hacker is not the activities performed themselves (e.g. programming), but the manner in which it is done: Hacking entails some form of excellence, for example exploring the limits of what is possible, thereby doing something exciting and meaningful.
 

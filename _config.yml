@@ -1,5 +1,5 @@
 # Site settings
-title: Gareth Codes
+title: Gareth codes
 email: me@gareth.codes
 description: > # this means to ignore newlines until "baseurl:"
   Currently leading a tech team out of Amsterdam for Greenpeace International from my office-on-an-island near Vancouver, Canada.
@@ -11,6 +11,7 @@ twitter_username: gyaresu
 github_username: gyaresu 
 timezone: Vancouver
 permalink: /:title/
+excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
