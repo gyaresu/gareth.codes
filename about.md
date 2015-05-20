@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The new top level domains (TLD's) have been a long time coming and while I will hold on to `gareth.com.au` (.au => Company Australia) & `gyaresu.org` (.org => Organisation) it seems fitting to use this new domain as a symbolic break from the past and launchpad for new adventures.
+The new top level domains (TLD's) have been a long time coming and while I will hold on to `gareth.com.au` (Company, Australia) & `gyaresu.org` (Organisation) it seems fitting to use this new domain as a symbolic break from the past and launchpad for new adventures.
 
 You can find my historical 'blog and bookmarks' website at [http://gyaresu.org][gyaresu].
 
