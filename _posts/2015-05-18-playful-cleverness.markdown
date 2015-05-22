@@ -20,7 +20,7 @@ Activities of playful cleverness can be said to have "hack value" and are termed
 
 <br />
 
-####Current interests:
+#### Current interests:
 
 * [HackRF][hackrf] - Mike Ossmann's Lessons in Software Defined Radio
 * [Human Javascript][humanjs] - [Henrik Joretag][henrik]'s Native Web App tutorial:

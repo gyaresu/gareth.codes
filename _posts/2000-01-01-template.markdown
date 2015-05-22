@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "template"
+date:   2000-01-01 00:00:00
+categories: hacking, technology
+published: false
+tags: technology, programming
+---
+
+# Example post heading
+
+All this will be shown on the home page
+
+<!--more-->
+
+This is the rest of the article and only viewable from the posts URL
+
+<hr>
+
+<br />
+
+#### Current interests:
