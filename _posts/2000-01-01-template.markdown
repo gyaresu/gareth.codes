@@ -15,6 +15,8 @@ All this will be shown on the home page
 
 This is the rest of the article and only viewable from the posts URL
 
+From: 
+{% include image.html url="https://flic.kr/p/9MEwW8" description="Look into my eyes" %} 
 <hr>
 
 <br />
