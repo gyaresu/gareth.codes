@@ -7,7 +7,7 @@ published: true
 tags: technology, management
 ---
 
-Joining [Rands'][rands] Leadership channel. Jessica's People vs. Oil article. 
+Joining [Rands'][rands] Leadership channel. Jessica's People vs. Oil article.
 Javascript ES6 good times. Tonnes of great tunes.
 
 It's been a good week.
@@ -59,15 +59,15 @@ Makes decisions, but seeks approval. | Makes and facilitates quick decisions, so
  * [NPM][npm] modules
    * [Babel-eslint][babel-eslint]
  * [Last.fm][lastfm] - Top Artists: 7 days
-   *     ```Aphex Twin, Squarepusher, Berry Weight, Daedelus, Ammoncontact, 
-    Delarosa & Asora, Mouse on Mars, Lizzy Parks, Long Arm, user18081971, 
-    Attica Blues, Bola, Stevie Wonder, Sixtoo, Loka, Radiohead, Coal 
-    Chamber, Funkstörung, Legion Of Green Men, Savath & Savalas, Dday One, 
-    Nine Inch Nails, Bonobo, Chet Faker, Cex, Heights of Abraham, Piano Overlord, 
-    Doctor Flake, Glen Porter, The Q4, 2econd Class Citizen, Ministry, 
-    Push Button Objects, Daft Punk, Jon Kennedy, Jega, Ani DiFranco, 
-    Audiomontage, Evan Gipson, Azaxx, Marumari, Flevans, BADBADNOTGOOD, 
-    Brothomstates, Al Green, Up, Bustle and Out, Sola Rosa, Robag Wruhme, 
+   *     ```Aphex Twin, Squarepusher, Berry Weight, Daedelus, Ammoncontact,
+    Delarosa & Asora, Mouse on Mars, Lizzy Parks, Long Arm, user18081971,
+    Attica Blues, Bola, Stevie Wonder, Sixtoo, Loka, Radiohead, Coal
+    Chamber, Funkstörung, Legion Of Green Men, Savath & Savalas, Dday One,
+    Nine Inch Nails, Bonobo, Chet Faker, Cex, Heights of Abraham, Piano Overlord,
+    Doctor Flake, Glen Porter, The Q4, 2econd Class Citizen, Ministry,
+    Push Button Objects, Daft Punk, Jon Kennedy, Jega, Ani DiFranco,
+    Audiomontage, Evan Gipson, Azaxx, Marumari, Flevans, BADBADNOTGOOD,
+    Brothomstates, Al Green, Up, Bustle and Out, Sola Rosa, Robag Wruhme,
     The Clifford Gilberto Rhythm Combination, Lou Rhodes.```
  * [The People vs. Oil][oil] - Jessica Wilson - _The Georgia Straight_
 
