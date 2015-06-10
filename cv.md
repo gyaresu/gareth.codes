@@ -3,7 +3,6 @@ layout: page
 title: Résumé/Curriculum Vitae
 permalink: /cv/
 ---
-pdf: [gareth-cv.pdf][cv]
 
 <img style="float: right" src="/files/avatar.jpg">
 
@@ -11,13 +10,13 @@ pdf: [gareth-cv.pdf][cv]
 
 @gyaresu everywhere on the internet
 
->:--------:|---|:--------|---|:---|---:
-`Email` |—| <me@gareth.codes>| |`Location` | Vancouver, BC
-`Blog` |—|[https://gareth.codes][blog]| |`Passports`| Australian, British
-`Twitter` |—| [@gyaresu][twitter]| |`DOB` | 1974-04-30 (41)
- `GitHub` |—| [github.com/gyaresu][github]| | `LinkedIn/Facebook`| no longer
+>:-------:|-|:----------------------------|-|:--------------------|--------------------:
+`Email`   |—| <me@gareth.codes>           | | `Location`          | Vancouver, BC
+`Blog`    |—| [https://gareth.codes][blog]| | `Passports`         | Australian, British
+`Twitter` |—| [@gyaresu][twitter]         | | `DOB`               | 1974-04-30 (41)
+ `GitHub` |—| [github.com/gyaresu][github]| | `LinkedIn/Facebook` | no longer
 
-2012 — 2015 [Greenpeace International][gpi] - Local IT Team Leader
+2012 — now [Greenpeace International][gpi] - Local IT Team Leader
 
  * Location: Amsterdam, Netherlands
 
@@ -25,21 +24,23 @@ pdf: [gareth-cv.pdf][cv]
 the Greenpeace International office which are partially in the office and
 partially located in offices worldwide.
 
-2012 Project management: self employed
+2012 Project management: contract
 
+ * Location: Oslo, Norway
  * System architecture planning and implementation
  * Design toolchains for multi-host servers and virtual domains
  * Build, harden and test. Document process.
 
 2009 — 2012 [Reef Safari Diving][rs]: Project Manager and Diving instructor
 
- * Head of daily scuba diving operations 200km out of Airlie Beach on the [GBRMPR][reef]
+ * Location: The [Great Barrier Reef Marine Park Reserve][reef]
+ * Head of daily scuba diving operations 200km out of Airlie Beach
  * Team of 10-20 for ship of up to 320 passengers (13hrs at sea)
- * Fiji - Three months teaching and training dive instructors
+ * Fiji - Three months training dive instructors from 8 resorts
 
 2002 — 2010 Owner of [Computer Rescue][cr] / Ninja Web Development
 
- * Location: Launceston, Australia
+ * Location: Launceston, Tasmania
  * Do All The Things™
  * Project Management for 1000+ businesses and individuals over 8 years
  * Trying to list every skill or project would not do justice to the
@@ -48,16 +49,18 @@ partially located in offices worldwide.
 
 Personal:
 
- * Embace diversity and strive for self awareness of cognitive biases
- * Keep current with technology but learn what as required
+ * Embrace diversity and strive for self awareness of cognitive biases
+ * Keep current with technology and learn skills as required
  * Problem solving and pragmatism over established dogma.
  * Belief in mission over pay cheque or rank
+ * [Teach to Learn][teach]
  * [Leadership over Management][ml]
 
 >Referees provided upon request.
 
 \* people with only a single name are said to be [mononymous][mononymous]
 
+[teach]:        /teach-it/
 [ml]:           /manage-lead/
 [reef]:         http://www.gbrmpa.gov.au/
 [vimeo]:        https://vimeo.com/gyaresu
