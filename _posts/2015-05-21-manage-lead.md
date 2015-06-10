@@ -54,7 +54,7 @@ Makes decisions, but seeks approval. | Makes and facilitates quick decisions, so
  * [Rands'][rands] Leadership **slash** `Semi-Informal Serendipitous Bitching Group` on Slack
  * [Eslint][eslint] and per-repository configuration via an [`.eslintrc`][eslintrc] file.
  * [You Don't Know Javascript][ydkjs] - Chapter 4: Mixing (Up) "Class" Objects
- * [Apiration Manifesto][aspiration] - Aspiration are a values-driven nonprofit technology organization
+ * [Aspiration Manifesto][aspiration] - Aspiration are a values-driven nonprofit technology organization
  * [Lazymorphic Apps][lazymorphic] - Bringing back the static web - Henrik Joreteg
  * [NPM][npm] modules
    * [Babel-eslint][babel-eslint]
