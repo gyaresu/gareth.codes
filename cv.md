@@ -16,7 +16,9 @@ permalink: /cv/
 `Twitter` |—| [@gyaresu][twitter]         | | `DOB`               | 1974-04-30 (41)
  `GitHub` |—| [github.com/gyaresu][github]| | `LinkedIn/Facebook` | no longer
 
-2012 — now [Greenpeace International][gpi] - Local IT Team Leader
+**Current status: Available** — [email now](mailto:me@gareth.codes?subject="U CAN HAZ JOB!!!11!1") if you think I might be **[the right fit](/gareth-does-canada)**
+
+2012 — August 2015 [Greenpeace International][gpi] - Local IT Team Leader
 
  * Location: Amsterdam, Netherlands
 
