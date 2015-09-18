@@ -8,6 +8,8 @@ permalink: /cv/
 
 #### Full name: Gareth*
 
+**Currently open to offers**: [Gareth's Curriculum Vitae 2015-09-18.pdf](/files/gareth-curriculum-vitae-2015-09-18.pdf)
+
 @gyaresu everywhere on the internet
 
 >:-------:|-|:----------------------------|-|:--------------------|--------------------:
@@ -16,7 +18,15 @@ permalink: /cv/
 `Twitter` |—| [@gyaresu][twitter]         | | `DOB`               | 1974-04-30 (41)
  `GitHub` |—| [github.com/gyaresu][github]| | `LinkedIn/Facebook` | no longer
 
-**Current status: Available** — [email now](mailto:me@gareth.codes?subject="U CAN HAZ JOB!!!11!1") if you think I might be **[the right fit](/gareth-does-canada)**
+
+
+August 2015 - now: Contracting - Computer Security Researcher, Engineer
+
+ * Microprocessors and IC's
+ * Digital Signal Processing via Software Defined Radio
+ * Ascertaining inherent vulnerabilities in "Internet of Things" devices
+ * Primary working languages: C, Python, JavaScript/ Node.js
+
 
 2012 — August 2015 [Greenpeace International][gpi] - Local IT Team Leader
 
@@ -43,7 +53,7 @@ partially located in offices worldwide.
 2002 — 2010 Owner of [Computer Rescue][cr] / Ninja Web Development
 
  * Location: Launceston, Tasmania
- * Do All The Things™
+ * Full-service IT support
  * Project Management for 1000+ businesses and individuals over 8 years
  * Trying to list every skill or project would not do justice to the
    sheer range of business requirements and solutions I've been directly
