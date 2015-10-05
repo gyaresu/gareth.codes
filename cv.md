@@ -8,7 +8,7 @@ permalink: /cv/
 
 #### Full name: Gareth*
 
-**Currently open to offers**: [Gareth's Curriculum Vitae 2015-09-18.pdf](/files/gareth-curriculum-vitae-2015-09-18.pdf)
+**Direct link to PDF version**: [Gareth's Curriculum Vitae 2015-09-18.pdf](/files/gareth-curriculum-vitae-2015-09-18.pdf)
 
 @gyaresu everywhere on the internet
 
