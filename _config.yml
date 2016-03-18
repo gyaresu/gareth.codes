@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Open to new adventures. Check résumé/cv for details 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gareth.codes" # the base hostname & protocol for your site
-twitter_username: gyaresu
+twitter_username: gareth__
 github_username: gyaresu 
 timezone: Vancouver
 permalink: /:title/
