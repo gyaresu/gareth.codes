@@ -8,15 +8,13 @@ permalink: /cv/
 
 #### Full name: Gareth*
 
-**Direct link to PDF version**: [Gareth's Curriculum Vitae 2015-09-18.pdf](/files/gareth-curriculum-vitae-2015-09-18.pdf)
-
-@gyaresu everywhere on the internet
+**Direct link to PDF version**: [Gareth's Curriculum Vitae 2016-04-12.pdf](/files/gareth-curriculum-vitae-2016-04-12.pdf)
 
 >:-------:|-|:----------------------------|-|:--------------------|--------------------:
 `Email`   |—| <me@gareth.codes>           | | `Location`          | Vancouver, BC
 `Blog`    |—| [https://gareth.codes][blog]| | `Passports`         | Australian, British
-`Twitter` |—| [@gyaresu][twitter]         | | `DOB`               | 1974-04-30 (41)
- `GitHub` |—| [github.com/gyaresu][github]| | `LinkedIn/Facebook` | no longer
+`Twitter` |—| [@gareth__][twitter]         | | `DOB`               | 1974-04-30 (41)
+ `GitHub` |—| [github.com/gyaresu][github]| | `Facebook` | [Gareth](https://facebook.com/gyaresu)
 
 
 
