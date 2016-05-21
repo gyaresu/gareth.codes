@@ -17,7 +17,7 @@ permalink: /cv/
 >:-------:|-|:----------------------------|-|:--------------------|--------------------:
 `Email`   |—| <me@gareth.codes>           | | `Location`          | Vancouver, BC
 `Blog`    |—| [https://gareth.codes][blog]| | `Passports`         | Australian, British
-`Twitter` |—| [@gareth__][twitter]         | | `DOB`               | 1974-04-30 (41)
+`Twitter` |—| [@gareth__][twitter]         | | `DOB`               | 1974-04-30 (42)
  `GitHub` |—| [github.com/gyaresu][github]| | `Facebook` | [Gareth](https://facebook.com/gyaresu)
 
 
