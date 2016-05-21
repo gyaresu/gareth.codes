@@ -8,7 +8,11 @@ permalink: /cv/
 
 #### Full name: Gareth*
 
-**Direct link to PDF version**: [Gareth's Curriculum Vitae 2016-04-12.pdf](/files/gareth-curriculum-vitae-2016-04-12.pdf)
+**Please download the PDF version. It's really pretty**
+
+**PDF**: [Gareth's Curriculum Vitae 2016-04-12.pdf](/files/gareth-curriculum-vitae-2016-04-12.pdf)
+
+***
 
 >:-------:|-|:----------------------------|-|:--------------------|--------------------:
 `Email`   |—| <me@gareth.codes>           | | `Location`          | Vancouver, BC

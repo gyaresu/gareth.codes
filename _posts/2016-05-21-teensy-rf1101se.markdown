@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Teensy and the RF1101SE"
+date:   2016-05-21 09:11:00
+categories: hacking, technology, sdr
+published: true
+tags: technology, programming, sdr, cc11xx
+---
+
+## Driving the RF1101SE-v3.1 with a Teensy microcontroller
+
+This week I spent a couple of days fighting with, testing, and then finally releasing some working code that drives a [Texas Instruments CC1101][cc1101] based board with the fabulous [Teensy][teensy] from [PJRC][pjrc]. I also include some code to configure Michael Ossmann's [Yard Stick One][ys1] which has become an indespensible device for working with packet-based radios.
+
+It was a whole lot of fun and a real break from a work projects that have consumed my last 6 months.
+
+<!--more-->
+
+The RF1101SE is a generic [Texas Instruments CC1101][cc1101] based board with capacitors and parts limiting the effective frequency range to 433MHz. 
+
+![Saleae connected to the RF1101SE-V3.1][rf1101]
+
+If you want to get a Teensy then the best place to source one is while ordering Open Source Hardware circuit boards from [OSHPark.com][oshpark]
+
+Or you can [order a Teensy directly][order] for about US$20 delivered worldwide.
+
+I <3 [OSH Park][oshpark]. They're awesome
+
+
+
+<hr>
+
+<br />
+
+#### Current interests:
+* [example](/)
+   * [nested-example](/)
+
+[cc1101]:           http://www.ti.com/product/cc1101
+[rf1101]:           /files/saleae-rf1101se.jpg
+[ys1]:              https://github.com/greatscottgadgets/yardstick/wiki/YARD-Stick-One
+[teensy]:           https://www.pjrc.com/teensy/teensy31.html
+[pjrc]:             https://www.pjrc.com
+[order]:            http://store.oshpark.com/products/teensy-3-1
+[oshpark]:          https://oshpark.com
