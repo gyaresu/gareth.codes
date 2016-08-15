@@ -3,7 +3,7 @@ layout: post
 title:  "Teensy and the RF1101SE"
 date:   2016-05-21 09:11:00
 categories: hacking, technology, sdr
-published: false
+published: true
 tags: technology, programming, sdr, cc11xx
 ---
 
@@ -11,13 +11,18 @@ tags: technology, programming, sdr, cc11xx
 
 This week I spent a couple of days fighting with, testing, and then finally releasing some working code that drives a [Texas Instruments CC1101][cc1101] based board with the fabulous [Teensy][teensy] from [PJRC][pjrc]. I also include some code to configure Michael Ossmann's [Yard Stick One][ys1] which has become an indespensible device for working with packet-based radios.
 
-It was a whole lot of fun and a real break from a work projects that have consumed my last 6 months.
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I updated my Teensy + RF1101SE code with more comments and a helpful image.<br> <a href="https://t.co/mLhYjbXFEf">https://t.co/mLhYjbXFEf</a><a href="https://twitter.com/hashtag/RFCat?src=hash">#RFCat</a> <a href="https://twitter.com/hashtag/HackRF?src=hash">#HackRF</a> <a href="https://t.co/hacgAuvLPI">pic.twitter.com/hacgAuvLPI</a></p>&mdash; ☞ Gareth (@gareth__) <a href="https://twitter.com/gareth__/status/733648265913237506">May 20, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <!--more-->
 
-The RF1101SE is a generic [Texas Instruments CC1101][cc1101] based board with capacitors and parts limiting the effective frequency range to 433MHz. 
+It was a whole lot of fun and a real break from my work on the [Iridium Satellite Constellation](https://en.wikipedia.org/wiki/Iridium_satellite_constellation) that has consumed my every waking hour for the last 6 months.
 
 ![Saleae connected to the RF1101SE-V3.1][rf1101]
+
+
+The RF1101SE is a generic [Texas Instruments CC1101][cc1101] based board with capacitors and parts limiting the effective frequency range to 433MHz. 
+
 
 If you want to get a Teensy then the best place to source one is while ordering Open Source Hardware circuit boards from [OSHPark.com][oshpark]
 
@@ -25,15 +30,16 @@ Or you can [order a Teensy directly][order] for about US$20 delivered worldwide.
 
 I <3 [OSH Park][oshpark]. They're awesome
 
-
-
 <hr>
 
 <br />
 
 #### Current interests:
-* [example](/)
-   * [nested-example](/)
+* [teensy-rff1101se on Github](https://github.com/gyaresu/rf1101se-teensy/)
+* [Iridium](/)
+   * [Iridium Pager Hacking \[31c3\]](https://youtu.be/xCf5JFpOkDs)
+   * [Iridium Hacking ... please don't sue us \[cccamp15\]](https://youtu.be/K_u-lj2PJds)
+   * [Iridium Update - More than just pagers \[32c3\]](https://youtu.be/n5N0o8gShtE)
 
 [cc1101]:           http://www.ti.com/product/cc1101
 [rf1101]:           /files/saleae-rf1101se.jpg

@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Iridium"
+date:   2016-08-15 00:00:00
+categories: hacking, technology, radio
+published: true
+tags: technology, programming, iridium, sdr, gnuradio, satellites, hackrf, rfcat, programming, radio
+---
+
+# Iridium Satellite Constellation
+
+> “Fortunately, the complexity of the Iridium air interface should make the challenge of developing an Iridium L-Band monitoring system very difficult and probably beyond the reach of all but the most determined adversaries” - Iridium LLC
+
+<br/>
+
+```python
+......Q*..rFAB:M3Iv7
+323 23.520N 3427.619
+E TVG:878 693 585 50
+9 449 401 360 324 PG
+:...................
+```
+<center><i>Iridium packet with GPS Location and sonar status
+</i></center>
+
+<br/>
+
+<!--more-->
+
+![Iridium payload](/files/iridium-gear.png)
+
+<hr>
+
+<br />
+
+#### Current interests:
+* [Iridium](/)
+    * [gr-iridium Github repository](https://github.com/muccc/gr-iridium/)
+    * [iridium-toolkit Github repository](https://github.com/muccc/iridium-toolkit)
+    * [Inspectrum Github repository](https://github.com/miek/inspectrum)
+    * [Dan Veeneman - Iridium technical details](http://www.decodesystems.com/iridium.html)
+    * [Iridium Short Burst Data Service Developers Guide](http://tabs2.gerg.tamu.edu/~norman/659/Iridium/9306/Iridium%20Short%20Burst%20Data%20Service%20Developers%20Guide%20v3_0.pdf) (PDF)
+    * [Time-division multiplexing](https://en.wikipedia.org/wiki/Time-division_multiplexing)
+    * [Frequency-division multiplexing](https://en.wikipedia.org/wiki/Frequency-division_multiplexing)
+    * [BCH code](https://en.wikipedia.org/wiki/BCH_code)
+    * [Phase-shift keying#Differential encoding](https://en.wikipedia.org/wiki/Phase-shift_keying#Differential_encoding)
+    * [Baseband#Equivalent baseband signal](https://en.wikipedia.org/wiki/Baseband#Equivalent_baseband_signal)
+    * [High-Level Data Link Control#Asynchronous framing](https://en.wikipedia.org/wiki/High-Level_Data_Link_Control#Asynchronous_framing)
+    * [“My Kingdom for a Toolsmith! The IRIDIUM system specification through the lens of Actor-Network Theory”](https://repository.asu.edu/attachments/142897/content/ASU-SSEBE-CESEM-2010-RPR-001.pdf)(PDF)
+    * [Radio propagation](https://en.wikipedia.org/wiki/Radio_propagation)
+    * [Maxtenna Right Hand Circular Polarized Antenna M1621HCT-P-SMA](http://www.maxtena.com/uploads/6/6/6/5/6665461/m1621hct-p-sma.pdf) (PDF)
+    * [Adam's LNA4ALL](http://lna4all.blogspot.com/)
+    * [Adam's multiple LNA4ALL video](https://www.youtube.com/watch?v=gkVy3L_cBtU)
+    * [Odroid XU4](http://odroid.com/dokuwiki/doku.php?id=en:odroid-xu4)
+    * [GNURadio](http://gnuradio.org/)
