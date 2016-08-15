@@ -27,6 +27,13 @@ E TVG:878 693 585 50
 
 <!--more-->
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Global fish production approaching sustainable limit, UN warns<a href="https://t.co/uAKQ9EtIaS">https://t.co/uAKQ9EtIaS</a></p>&mdash; Greenpeace Tuna (@GreenpeaceTuna) <a href="https://twitter.com/GreenpeaceTuna/status/751257476293550080">July 8, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My first Iridium SBD data! <br>Thanks to the work of <a href="https://twitter.com/42Sec">@42Sec</a> &amp; Schneider <a href="https://twitter.com/hashtag/hackrf?src=hash">#hackrf</a> <a href="https://twitter.com/rad1obadge">@rad1obadge</a><a href="https://t.co/lUDQnAOMpk">https://t.co/lUDQnAOMpk</a> <a href="https://t.co/e08fNcmM7n">pic.twitter.com/e08fNcmM7n</a></p>&mdash; ☞ Gareth (@gareth__) <a href="https://twitter.com/gareth__/status/670487715113254912">November 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![Iridium payload](/files/iridium-gear.png)
 
 <hr>
