@@ -2,9 +2,8 @@
 title: Gareth codes
 email: me@gareth.codes
 description: > # this means to ignore newlines until "baseurl:"
-  Current home: Vancouver, Canada.
-  Just finished a three year contract with Greenpeace International.
-  Open to new adventures. Check résumé/cv for details 
+  Currently role — Computer Security Researcher.
+  Contact me with intriguing work opportunities.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gareth.codes" # the base hostname & protocol for your site
 twitter_username: gareth__
