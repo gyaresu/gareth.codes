@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Metasploit hardware bridge and YARD Stick One"
+date:   2017-04-09 12:00:00
+categories: hacking, technology
+published: false
+tags: technology, programming
+---
+
+# Metaspoit hardware bridge for RFCat and YARD Stick One
+
+![Sending Metasploit payload via YARD Stick One](/images/
+
+All this will be shown on the home page
+
+<!--more-->
+
+This is the rest of the article and only viewable from the posts URL
+
+<hr>
+
+<br />
+
+#### Current interests:
+* [example](/)
+   * [nested-example](/)
