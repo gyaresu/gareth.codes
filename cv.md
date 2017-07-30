@@ -9,9 +9,7 @@ published: True
 
 #### Full name: Gareth*
 
-**Please download the PDF version. It's really pretty**
-
-**PDF**: [Gareth's Curriculum Vitae 2016-04-12.pdf](/files/gareth-curriculum-vitae-2016-04-12.pdf)
+**The pretty PDF version**: [Gareth's general purpose tech CV — July 2017](/files/gareth-general-purpose-cv-2017.pdf)
 
 ***
 
@@ -23,10 +21,13 @@ published: True
 
 
 
-August 2015 - now: Contracting - Computer Security Researcher, Engineer
+August 2015 — now: Contracting - Computer Security Researcher, Engineer
 
-Global technology contractor with Greenpeace International (GPI), its Global teams, and National/Regional Offices (NROs) in projects such as: Secure Group Communications (testing and implementation); Software Defined Radio R&D for satellite tracking and monitoring at-risk species, fisheries, and international vessels of interest; On-site infosec consultation and training in Turkey, Israel, & Germany; Co-creator of the Greenpeace International 2016 Action-Tech skill share in Hamburg.
+Global technology contractor with Greenpeace International (GPI), its Global teams, and National/Regional Offices (NROs) in projects such as: Secure Group Communications (testing and implementation).
 
+ * Software Defined Radio R&D for satellite tracking and monitoring at-risk species, fisheries, and international vessels of interest; On-site infosec consultation and training in Turkey, Israel, & Germany
+ * Reverse engineering digital signals
+ * Co-creator of the Greenpeace International 2016 Action-Tech skill share in Hamburg.
  * Microprocessors and IC's
  * Digital Signal Processing via Software Defined Radio
  * Ascertaining inherent vulnerabilities in "Internet of Things" devices
@@ -93,7 +94,7 @@ Personal:
 [rs]:           http://reefsafari.com
 [mononymous]:   https://en.wikipedia.org/wiki/Mononymous_person
 [gpi]:          http://greenpeace.org
-[twitter]:      https://twitter.com/gyaresu
+[twitter]:      https://twitter.com/gareth__
 [github]:       https://github.com/gyaresu
 [blog]:         https://gareth.codes
 [cv]:           /files/gareth-cv.pdf
