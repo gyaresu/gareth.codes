@@ -45,7 +45,7 @@ p.s I now have 8 Cores running at 2.6 GHz chomping on 64 bit memory addresses wi
 <br />
 
 #### Current interests:
-* [Livestreaming]
+* [Twitch](https://twitch.tv)
     * [gareth_codes](https://www.twitch.tv/gareth_codes)
     * [Gareth\'s Node.js collection](https://www.twitch.tv/videos/162473773)
 * [Nodeschool]((https://nodeschool.io))
