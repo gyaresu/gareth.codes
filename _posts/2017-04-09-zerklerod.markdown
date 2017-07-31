@@ -20,7 +20,11 @@ Zerklerod. An IRC #hackrf bot story.
 
 ![zerklerod](/files/zerkleproof.png)
 
-Bots man, bots.
+## How does it accomplish this incredibe feat?
+
+![wolfphram](/files/wolfram.png)
+
+## Bots man, bots.
 
 <hr>
 

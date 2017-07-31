@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Lve streaming on twitchtv"
+date:   2017-07-30 12:00:00
+categories: streaming, programming, technology, twitchtv
+published: true
+tags: technology, programming
+---
+
+# Scope, Shains, & Closure
+<iframe src="https://player.twitch.tv/?video=v162629144&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/gareth_codes?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from gareth_codes on www.twitch.tv</a>
+
+I enjoy learning. Everything. 
+
+The internet has made learning about computers possible for me. Sharing that enthusiasm could be classed as "teaching" but teaching and learning are intrinsically coupled.
+
+<!--more-->
+
+Circumstances aligned when I was 27. I recieved a 200MHz Acer Extensa 355 with 16MB of RAM at just the same time as I befriended a person who had lived computers so long they were currently burnt out and taught me the importance of self-reaseach by thoroughly ignoring any question that didn't have significant work that I'd already put into solving any problem.
+
+So, loaded with Windows 98 and a pcmcia Xircom RealPort™ for modem and lan I proceeded to hang out with them while being taught how to not ask stupid questions.
+
+Which was fine by me because some of the raving bipolar geniuses I had been mentored by in other fields had toughened me to anything that life could throw my way.
+
+So when the unceremonial time came to reinstall that sad sad Win98 machine I had to spend quite some time figuring out the registry hack which would get the Xircom modem working again.
+
+And that was just to get networking. Because it was a laptop without a network card. Think about that for a second...
+
+Well that didn't last very long and I soon had a mysterious stranger leave me with a base RedHat install with no GUI and no knowledge of what Linux was...
+
+So now I'm 15 years on the other side of that starting adventure and I'm still learning every day. 
+
+And as I'm currently funemployed and awaiting visas, I thought it a great time to live-stream some current learnings via [Twitch TV](https://twitch.tv).
+
+I've started with Node.js and I think there's a good chance I'll do a bunch of Software Defined Radio ([SDR](https://en.wikipedia.org/wiki/Software-defined_radio])) as well.
+
+So please do feel free to follow me as [@gareth__](https://twitter.com/gareth__) on Twitter and [@gareth_codes](https://www.twitch.tv/gareth_codes) on Twitch.
+
+And let me know if you have any problems getting started with Nodeschool. Happy to help.
+
+p.s I now have 8 Cores running at 2.6 GHz chomping on 64 bit memory addresses with a tidy 16GB of RAM. I think my first **hard drive** was 20GB.
+
+<hr>
+
+<br />
+
+#### Current interests:
+* [Livestreaming]
+    * [gareth_codes](https://www.twitch.tv/gareth_codes)
+    * [Gareth\'s Node.js collection](https://www.twitch.tv/videos/162473773)
+* [Nodeschool]((https://nodeschool.io))
+    * [scope-chains-closures](https://github.com/workshopper/scope-chains-closures)
+    * [javascripting](https://github.com/workshopper/javascripting)
+    * [learnyounode](https://github.com/workshopper/learnyounode)
+    * [currying-workshopper](https://github.com/kishorsharma/currying-workshopper)
+    * [stream-adventure](https://github.com/workshopper/stream-adventure)
+    * [learnyouhtml](https://github.com/denysdovhan/learnyouhtml)
+    * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop)
+* [My $169 development Chromebook](https://blog.lessonslearned.org/building-a-more-secure-development-chromebook/)
+* [https://hologram.io/](https://hologram.io/)
