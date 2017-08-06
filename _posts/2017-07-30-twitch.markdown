@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lve streaming on twitchtv"
+title:  "Live streaming on twitchtv"
 date:   2017-07-30 12:00:00
 categories: streaming, programming, technology, twitchtv
 published: true
@@ -16,9 +16,9 @@ The internet has made learning about computers possible for me. Sharing that ent
 
 <!--more-->
 
-Circumstances aligned when I was 27. I recieved a 200MHz Acer Extensa 355 with 16MB of RAM at just the same time as I befriended a person who had lived computers so long they were currently burnt out and taught me the importance of self-reaseach by thoroughly ignoring any question that didn't have significant work that I'd already put into solving any problem.
+Circumstances aligned when I was 27. I recieved a 200MHz Acer Extensa 355 with 16MB of RAM at just the same time as I befriended a person who had lived computers so long they were currently burnt out. Even so, they taught me the importance of self-research by thoroughly ignoring any question I had that didn't already show significant independent effort.
 
-So, loaded with Windows 98 and a pcmcia Xircom RealPort™ for modem and lan I proceeded to hang out with them while being taught how to not ask stupid questions.
+So, loaded with Windows 98 and a pcmcia Xircom RealPort™ for modem and ethernet I proceeded to hang out with them while being taught how to not ask stupid questions.
 
 Which was fine by me because some of the raving bipolar geniuses I had been mentored by in other fields had toughened me to anything that life could throw my way.
 
