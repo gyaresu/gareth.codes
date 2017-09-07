@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "SDR"
+date:   2017-09-06 18:00:00
+categories: sdr
+published: false
+tags: technology, programming, sdr, hacking, gnuradio, greenpeace
+---
+
+# Getting started with Software Defined Radio
+
+```
+yak shaving (uncountable)
+  1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
+```
+
+![Yak Shaving™](/files/yak_shaving.gif)
+
+<!--more-->
+
+So I've created a repository to get started with GNURadio, SDR, HackRF, RTL-SDR etc.
+
+[https://github.com/gyaresu/sdr](https://github.com/gyaresu/sdr)
+
+<hr>
+
+<br />
+
+#### Current interests:
+* [Gareth's SDR](https://github.com/gyaresu/sdr)
+   * [](/)
