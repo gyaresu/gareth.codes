@@ -3,29 +3,50 @@ layout: post
 title:  "SDR"
 date:   2017-09-06 18:00:00
 categories: sdr
-published: false
+published: true
 tags: technology, programming, sdr, hacking, gnuradio, greenpeace
 ---
 
-# Getting started with Software Defined Radio
+# Getting started with Software Defined Radio (SDR)
 
-```
-yak shaving (uncountable)
-  1. Any apparently useless activity which, by allowing you to overcome intermediate difficulties, allows you to solve a larger problem.
+_**How to move on from the FM radio examples**_
+
+```bash
+yak shaving:
+  1. Any apparently useless activity which, by allowing
+     you to overcome intermediate difficulties, allows
+     you to solve a larger problem.
 ```
 
 ![Yak Shaving™](/files/yak_shaving.gif)
 
 <!--more-->
 
-So I've created a repository to get started with GNURadio, SDR, HackRF, RTL-SDR etc.
+Getting started with Software Defined Radio (SDR) is increasingly difficult once you want to move on from capturing and demodulated FM Radio to demodulating and decoding other radio signals.
 
-[https://github.com/gyaresu/sdr](https://github.com/gyaresu/sdr)
+Hardware, software, physics, jargon. It can be intimidating. Putting some examples in one place that can be run by someone with a moderate understanding of computers will hopefully inspire and enable them to get started without too much difficulty.
 
+I've put these scripts into a my [SDR repository](https://github.com/gyaresu/sdr) on GitHub and will update them as time permits.
+
+These scripts will only require the bootable GNURadio LiveUSB version of Ubuntu and an SDR device such as the HackRF One, RTL-SDR etc.
+
+Have fun!
 <hr>
 
 <br />
 
 #### Current interests:
 * [Gareth's SDR](https://github.com/gyaresu/sdr)
-   * [](/)
+  * [GNURadio Live SDR](https://github.com/gnuradio/gnuradio-livesdr)
+  * [Jared Boone's Portapack](https://store.sharebrained.com/products/portapack-for-hackrf-one-kit)
+  * [List of Software Defined Radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+  * [Furrtek — Portapack Havoc](https://github.com/furrtek/portapack-havoc)
+* Learning to programme
+  * [Codewars — "Achieve code mastery through challenge"](http://www.codewars.com/)
+  * [Free Code Camp](https://www.freecodecamp.org/)
+  * [Fun Fun Function — Youtube Channel](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+  * [Fun Fun Function — Patreon](https://www.patreon.com/funfunfunction/)
+  * [Fun Fun Forum — Discourse channel for patrons](https://www.funfunforum.com/)
+* [Node.js](https://nodejs.org/en/)
+  * [Node.js Interactive - Vancouver October 4th 2017](http://events.linuxfoundation.org/events/node-interactive)
+  * [Nodeschool Vancouver](https://github.com/nodeschool/vancouver)
