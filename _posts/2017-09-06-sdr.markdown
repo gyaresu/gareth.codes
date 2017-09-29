@@ -17,10 +17,11 @@ yak shaving:
      you to overcome intermediate difficulties, allows
      you to solve a larger problem.
 ```
-
-![Yak Shaving™](/files/yak_shaving.gif)
-
 <!--more-->
+
+<img src="/files/yak_shaving.gif" alt="Yak Shaving™" style="width: 480px;"/>
+
+_"Hal fixes a light bulb"_ - [Malcolm in the middle](http://www.imdb.com/title/tt0212671)
 
 Getting started with Software Defined Radio (SDR) is increasingly difficult once you want to move on from capturing and demodulated FM Radio to demodulating and decoding other radio signals.
 
