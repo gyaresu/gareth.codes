@@ -8,8 +8,7 @@ tags: technology, programming
 ---
 
 # Scope, Shains, & Closure
-<iframe src="https://player.twitch.tv/?video=v162629144&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe><a href="https://www.twitch.tv/gareth_codes?tt_medium=live_embed&tt_content=text_link" style="padding:2px 0px 4px; display:block; width:345px; font-weight:normal; font-size:10px; text-decoration:underline;">Watch live video from gareth_codes on www.twitch.tv</a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZ4xP6CnJyg?start=134" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 I enjoy learning. Everything. 
 
 The internet has made learning about computers possible for me. Sharing that enthusiasm could be classed as "teaching" but teaching and learning are intrinsically coupled.

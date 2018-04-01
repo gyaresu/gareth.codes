@@ -2,7 +2,7 @@
 layout: page
 title: Résumé/Curriculum Vitae
 permalink: /cv/
-published: True
+published: False
 ---
 
 <img style="float: right" src="/files/avatar.jpg">
