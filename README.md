@@ -1,6 +1,6 @@
-# Gareth codes
+# gareth.codes
 
-New domain and website for my online presence.
+My domain and blog.
 
 Built in [Jekyll][jekyllrb] and hosted on [Fastmail][fastmail]
 
