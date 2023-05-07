@@ -2,10 +2,10 @@
 
 New domain and website for my online presence.
 
-Built in [Jekyll][jekyllrb] and hosted on [Surge.sh][surge]
+Built in [Jekyll][jekyllrb] and hosted on [Fastmail][fastmail]
 
 [http://gareth.codes][garethcodes]
 
-[surge]:        http://surge.sh
+[fastmail]:     https://fastmail.fm
 [garethcodes]:  http://gareth.codes
 [jekyllrb]:     http://jekyllrb.com/
